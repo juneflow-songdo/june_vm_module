@@ -5,7 +5,7 @@ import '../vm.dart';
 
 someAction() {
   var state = June.getState(NewVM());
-  state.count++;
+  // state.count++;
 
   state.setState();
 }

@@ -3,7 +3,7 @@ import 'package:june/june.dart';
 import '../../../../../../../../../main.dart';
 
 class NewVM extends JuneState {
-  int count = 0;
+  // int count = 0;
 }
 
 /* usage
