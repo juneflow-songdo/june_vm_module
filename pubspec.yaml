@@ -1,9 +1,9 @@
 name: june_vm_module
 description: "help june package to manage state in juneflow project"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/june_vm_module
 
-version: 0.0.1+1
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
