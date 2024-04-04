@@ -9,6 +9,6 @@ class NewVM extends JuneState {
 /* usage
 JuneBuilder(
   () => NewVM(),
-  builder: (vm) => widget
+  builder: (vmNew) => widget
 )
  */
