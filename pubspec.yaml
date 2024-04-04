@@ -3,7 +3,7 @@ description: "help june package to manage state in juneflow project"
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/june_vm_module
 
-version: 1.0.0
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

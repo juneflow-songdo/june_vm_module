@@ -1,6 +1,6 @@
 import 'package:june/june.dart';
 
-import '../../../../../../main.dart';
+import '../../../../../../../../../main.dart';
 
 class NewVM extends JuneState {
   int count = 0;
@@ -8,7 +8,7 @@ class NewVM extends JuneState {
 
 /* usage
 JuneBuilder(
-  () => CounterVM(),
+  () => NewVM(),
   builder: (vm) => widget
 )
  */

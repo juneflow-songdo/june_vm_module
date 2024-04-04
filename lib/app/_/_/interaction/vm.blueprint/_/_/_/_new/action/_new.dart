@@ -1,6 +1,6 @@
 import 'package:june/june.dart';
 
-import '../../../../../../../main.dart';
+import '../../../../../../../../../../main.dart';
 import '../vm.dart';
 
 someAction() {
